@@ -18,4 +18,4 @@ bundle exec jekyll serve
 
 ## Demo
 
-http://cyrilsuzat.com/jekyll-starter-template
+https://cyrilsuzat.com/jekyll-starter-template
